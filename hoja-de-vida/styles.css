@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    color: #1f2937;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 24px;
+    line-height: 1.6;
+}
+img {
+    display: block;
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+    margin: 24px auto;
+}
+h1 {
+    text-align: center;
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #1e3a8a;
+    border-bottom: 2px solid #cbd5e1;
+    padding-bottom: 8px;
+    margin-top: 32px;
+}
